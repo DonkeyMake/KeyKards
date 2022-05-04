@@ -1,4 +1,3 @@
-// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 //https://www.youtube.com/watch?v=iYUjuD17jG4 ---- https://www.aviacionline.com/2022/04/air-europa-y-travelx-presentan-el-primer-vuelo-nft-del-mundo/
 
